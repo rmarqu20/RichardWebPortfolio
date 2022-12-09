@@ -150,6 +150,11 @@ nav ul li a:hover::after
     color: #B096D2;
     font-size: 14px;
 }
+.tab-contents ul li desc
+{
+    padding-left: 1.5em;
+    font-size: 14px;
+}
 .tab-contents
 {
     display: none;
